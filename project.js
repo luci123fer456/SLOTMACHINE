@@ -173,7 +173,7 @@ if(balance<=0)
         console.log("YOU RAN OUT OF BALANCE :(");
         break;
     }
-const dec=prompt("Do you want to continue?(Y/N): ");
+const dec=prompt("Do you want to continue playing?(Y/N): ");
 if(dec!='Y' && dec!='y')
     {
         break;
